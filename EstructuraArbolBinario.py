@@ -1,7 +1,7 @@
 """
 Author: Alain Gomez Zapata
 Fecha: 26/12/2024
-Nombre de Programa: Actividad 8 Estructura de Datos
+Nombre de Programa: Actividad 8 Estructura de Datos. Trabajo Final sobre Arboles Binarios.
 """
 class Nodo:
     def __init__(self, valor):
